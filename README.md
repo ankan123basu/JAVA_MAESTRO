@@ -1,6 +1,6 @@
 # Java Core Concepts
 
-A focused collection of Java examples demonstrating fundamental programming principles and object-oriented concepts(OOPS)
+A focused collection of Java examples demonstrating fundamental programming principles and object-oriented concepts(OOPS).
 
 ## Key Concepts
 

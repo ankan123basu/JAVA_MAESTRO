@@ -11,4 +11,4 @@ A focused collection of Java examples demonstrating fundamental programming prin
 - Interfaces and Abstract Classes
 - Exception Handling
 - Collections Framework
-- Functional Programming in Java
+- Functional Programmings in Java
